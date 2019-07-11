@@ -1,6 +1,6 @@
 
 # ATX AIRBNB DATA ANALYSIS
-![alt text](“https://www.smdp.com/wp-content/uploads/2017/04/Airbnb.jpeg”)
+![alt text](https://www.smdp.com/wp-content/uploads/2017/04/Airbnb.jpeg)
 
 ## Team Members: Quynh Anh Dang, Quynh Tran, Linh Duong
 
